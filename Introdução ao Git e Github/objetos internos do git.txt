@@ -1,0 +1,5 @@
+Um blob (objeto binário grande) do Git é o tipo de objeto usado para armazenar o conteúdo de cada arquivo em um repositório. O hash SHA-1 do arquivo é calculado e armazenado no objeto do blob.
+
+O tipo de objeto é tree, e em vez de ter os valores simples, como o blob, a tree é um conjunto de valores de índices apontando para os objetos, juntamente com um modo (tipicamente 100644 para arquivos e 100755 para diretórios).
+
+Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git. São criados com o comando git commit para capturar o estado de um projeto naquele momento.

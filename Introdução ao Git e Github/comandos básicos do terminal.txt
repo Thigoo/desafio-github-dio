@@ -1,0 +1,9 @@
+Alguns comandos básicos do terminal windows.
+
+dir (directory) - mostra as pastas e arquivos dentro do diretório atual.
+cd (change directory) - usado para trocar o diretório a ser usado.
+cd .. - volta um nível da pasta atual
+mkdir (make directory) - cria uma pasta específica dentro do diretório atual.
+echo arquivo > arquivo.formato - criar um arquivo dentro do diretório atual.
+cls - limpar o terminal.
+del - deletar pasta ou arquivo.
